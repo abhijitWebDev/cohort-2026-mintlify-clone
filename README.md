@@ -21,10 +21,3 @@ A modern, responsive, and high-performance documentation landing page clone insp
 - **Icons**: [Lucide React](https://lucide.dev/) / [FontAwesome](https://fontawesome.com/)
 - **Deployment**: [Vercel](https://vercel.com/)
 
-## 📦 Installation & Setup
-
-Follow these steps to get the project running locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/janhvi1508/Mintlify-Clone.git](https://github.com/janhvi1508/Mintlify-Clone.git)
